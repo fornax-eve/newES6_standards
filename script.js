@@ -31,8 +31,6 @@ const data = {
 // function calcCash(own) {
 // 	own = own || 0;
 // 	var everyCash = Array.prototype.slice.call(arguments);
-// 	console.log(everyCash)
-// 	console.log(arguments)
 // 	var total = own;
 // 	for (var i = 0; i < everyCash[1].length; i++) {
 // 		total += +everyCash[1][i];
